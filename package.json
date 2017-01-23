@@ -1,7 +1,7 @@
 {
   "name": "opbot-basic",
   "description": "Hubot interface to Opvizor's appliance",
-  "version": "2.0.8",
+  "version": "2.0.9",
   "author": "Opvizor, Inc. <info@opvizor.com>",
   "license": "Proprietary",
   "keywords": [
@@ -20,7 +20,8 @@
   "dependencies": {
     "easy-table": "^1.0.0",
     "node-uuid": "^1.4.7",
-    "splunk-sdk": "^1.8.1"
+    "splunk-sdk": "^1.8.1",
+    "md5": "^2.2.1"
   },
   "peerDependencies": {
     "hubot": "2.x"
