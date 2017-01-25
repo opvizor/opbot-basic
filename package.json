@@ -1,7 +1,7 @@
 {
   "name": "opbot-basic",
   "description": "Hubot interface to Opvizor's appliance",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "author": "Opvizor, Inc. <info@opvizor.com>",
   "license": "Proprietary",
   "keywords": [
