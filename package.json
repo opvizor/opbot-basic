@@ -21,7 +21,9 @@
     "easy-table": "^1.0.0",
     "node-uuid": "^1.4.7",
     "splunk-sdk": "^1.8.1",
-    "md5": "^2.2.1"
+    "md5": "^2.2.1",
+    "datauri": "^1.0.5"
+
   },
   "peerDependencies": {
     "hubot": "2.x"
