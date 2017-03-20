@@ -1,7 +1,7 @@
 {
   "name": "opbot-basic",
   "description": "Hubot interface to Opvizor's appliance",
-  "version": "3.0.0",
+  "version": "2.3.5",
   "author": "Opvizor, Inc. <info@opvizor.com>",
   "private": true,
   "license": "Proprietary",
@@ -13,24 +13,23 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/opvizor/opbot-basic"
+    "url": "git+ssh://git@github.com/opvizor/opbot-basic#dev"
   },
   "bugs": {
     "url": "mailto:info@opvizor.com"
   },
   "dependencies": {
+    "apiai": "^4.0.1",
+    "datauri": "^1.0.5",
     "easy-table": "^1.0.0",
-    "node-uuid": "^1.4.7",
-    "splunk-sdk": "^1.8.1",
     "md5": "^2.2.1",
-    "datauri": "^1.0.5"
-
+    "node-uuid": "^1.4.7",
+    "node-wit": "^4.2.0",
+    "splunk-sdk": "^1.8.1"
   },
   "peerDependencies": {
     "hubot": "2.x"
   },
   "main": "index.coffee",
-  "scripts": {
-    "test": "grunt test"
-  }
+  "commit": "68877ec0439d00f135a8ae7419b904a1a905feed"
 }
