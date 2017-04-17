@@ -1,7 +1,7 @@
 {
   "name": "opbot-basic",
   "description": "Hubot interface to Opvizor's appliance",
-  "version": "2.3.8",
+  "version": "2.3.9",
   "author": "Opvizor, Inc. <info@opvizor.com>",
   "private": true,
   "license": "Proprietary",
@@ -31,5 +31,5 @@
     "hubot": "2.x"
   },
   "main": "index.coffee",
-  "commit": "6c698c97e3fd0ed71a4a7e37704ad1da5ffa0719"
+  "commit": "6511da21bf97982965443ad3bbf6e8a0c669204c"
 }
