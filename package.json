@@ -25,11 +25,12 @@
     "md5": "^2.2.1",
     "node-uuid": "^1.4.7",
     "node-wit": "^4.2.0",
-    "splunk-sdk": "^1.8.1"
+    "splunk-sdk": "^1.8.1",
+    "tmp": "0.0.31"
   },
   "peerDependencies": {
     "hubot": "2.x"
   },
   "main": "index.coffee",
-  "commit": "d465c21e63f3ccd44df54a06d647fba22a22e911"
+  "commit": "1a4dc585e68b8deaeb644afaf580bda426ae5c59"
 }
